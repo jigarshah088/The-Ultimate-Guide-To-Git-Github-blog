@@ -26,7 +26,7 @@ Well, yes there is. Hoorah!! You got it right. It’s **Git → Version Control 
 
 - The project folder that lives on the github servers are called **remote repository**. It’s called remote because github hosts it somewhere in the world. We can access that repository by some unique url that github provides for us.
 
-For e.g, [this]()
+For e.g, [this](https://github.com/jigarshah088/The-Ultimate-Guide-To-Git-Github-blog/blob/main/)
 
 - The project folder that lives on our local machines are called **local repository**. Pretty simple, right!! Ok, let’s move on.
 
